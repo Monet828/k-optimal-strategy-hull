@@ -30,3 +30,8 @@ This ensures alignment between optimization and evaluation.
 - The market is largely efficient
 - Overfitting risk dominates
 - A single well-optimized parameter outperforms complex models
+
+## Code Structure
+- src/: research-oriented and reusable implementation
+- kaggle_submission/: competition submission code
+
